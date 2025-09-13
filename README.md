@@ -78,11 +78,12 @@ The JavaScript (<script> at the bottom) handles the interactivity:
 showPage(pageId) → switches between sections
 trackProgress(lessonId) → saves completed lessons into localStorage
 updateProfile() → updates the profile page with the number of lessons completed
-
-OUTPUT :  
-
-
-
 updateCourses() → updates progress bars in the courses section
-
 These functions make the platform interactive and persistent, simulating a basic learning management system (LMS).
+
+OUTPUT :
+
+<img width="1365" height="602" alt="Image" src="https://github.com/user-attachments/assets/97f914c9-e170-456b-b7de-98c57141241d" />
+<img width="1358" height="459" alt="Image" src="https://github.com/user-attachments/assets/3b9e22fd-95d3-4637-8473-edaee87f35d7" />
+<img width="1347" height="631" alt="Image" src="https://github.com/user-attachments/assets/a5cf1e2b-c9db-4119-b248-b93ed5885a5d" />
+<img width="1364" height="348" alt="Image" src="https://github.com/user-attachments/assets/ddb92d3e-a6ee-4ff0-b03d-7d6b948e79ec" />
